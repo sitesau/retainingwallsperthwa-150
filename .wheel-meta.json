@@ -1,0 +1,22 @@
+{
+  "wheel_id": 426,
+  "structure": "umbrella",
+  "slug": "retainingwallsperthwa-150",
+  "project": "retaining-walls-perth-52aeb95480403eb3e22ef03a277c0569e532353f",
+  "parent_t1_ref": "retainingwallsperthwa-005",
+  "node_role": "buffer",
+  "money_target": "retainingwallsperthwa.com.au",
+  "primary_kw": "retaining walls perth",
+  "intended_url": "https://sitesau.github.io/retainingwallsperthwa-150/",
+  "tier": "T2",
+  "writeback_nonce": "25d141dd95ff536d",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/retaining-walls-perth-005/",
+      "anchor": "Retaining Walls Perth: What To Check First",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
